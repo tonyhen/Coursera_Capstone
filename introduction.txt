@@ -1,0 +1,3 @@
+The target of the analysis is to figure out which areas of Vancouver have the least number of mexican restaurants while still having enough other venues to show consumer interest. 
+
+The data will be grabbed from Foursquare
